@@ -1,18 +1,26 @@
 # Dharania Thananchayan
 
-## Resume
+**Python Backend Developer | AI/ML Enthusiast | Data Science & Analytics**
 
-📄 [View My Resume](./Dharania-T.pdf)
+🎓 B.Tech Information Technology Graduate
 
-## Skills
+## 🛠️ Skills
+
 - Python
-- Java
-- ReactJS
-- Django
-- Flask
+- Django & Flask
+- REST APIs
+- SQL (MySQL, PostgreSQL, SQLite)
+- Git & GitHub
 - Machine Learning
-- SQL
+- Data Science
+- Data Analytics
 
-## Contact
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/dharaniathananchayan/)
-- GitHub: [https://github.com/yourusernam](https://github.com/dharaniathananchayan)
+## 📄 Resume
+
+📥 **[Download My Resume](./Dharania-T.pdf)**
+
+## 📫 Connect with Me
+
+- **LinkedIn:** https://www.linkedin.com/in/dharaniathananchayan/
+- **GitHub:** https://github.com/dharaniathananchayan
+- **Email:** dharaniathananchayan@gmail.com
