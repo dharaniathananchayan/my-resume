@@ -2,8 +2,6 @@
 
 **Python Backend Developer | AI/ML Enthusiast | Data Science & Analytics**
 
-🎓 B.Tech Information Technology Graduate
-
 ## 🛠️ Skills
 
 - Python
